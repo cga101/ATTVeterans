@@ -2,7 +2,7 @@ import { Component } from '@angular/core';
 
 @Component({
   selector: 'home-tab',
-  templateUrl: '/pages/home.html'
+  templateUrl: '../pages/home/home.html'
 })
 
 export class HomeTab {
