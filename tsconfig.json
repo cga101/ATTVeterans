@@ -1,33 +1,26 @@
 {
   "compilerOptions": {
     "allowSyntheticDefaultImports": true,
-<<<<<<< HEAD
     "declaration": false,
     "emitDecoratorMetadata": true,
     "experimentalDecorators": true,
-=======
     "declaration": true,
     "emitDecoratorMetadata": true,
     "experimentalDecorators": true,
     "sourceMap":true,
->>>>>>> ad78f340c529d356ec0635d1afa35c3d99c5cdd9
     "lib": [
       "dom",
       "es2015"
     ],
     "module": "es2015",
     "moduleResolution": "node",
-<<<<<<< HEAD
     "sourceMap": true,
     "target": "es5"
   },
   "include": [
     "src/**/*.ts"
   ],
-=======
-    "target": "es5"
-  },
->>>>>>> ad78f340c529d356ec0635d1afa35c3d99c5cdd9
+  "target": "es5",
   "exclude": [
     "node_modules"
   ],
